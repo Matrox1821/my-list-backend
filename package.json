@@ -1,10 +1,10 @@
 {
-    "name": "my-list-backend",
+    "name": "my-list-server",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "nodemon my-list-backend/index.js",
+        "dev": "nodemon my-list-server/index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
